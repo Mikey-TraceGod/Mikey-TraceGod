@@ -1,4 +1,4 @@
-#👋 Konnichiwa! I'm Mikey-TraceGod ⚡
+##👋 Konnichiwa! I'm Mikey-TraceGod ⚡
 
 ## 🗡️ Bushido Code
 
