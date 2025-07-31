@@ -1,4 +1,4 @@
-<div align="center"> # 👋 Konnichiwa! I'm Mikey-TraceGod ⚡ </div>
+<div align="center"> 👋 Konnichiwa! I'm Mikey-TraceGod ⚡ </div>
 
 ## 🗡️ Bushido Code
 
