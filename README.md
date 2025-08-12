@@ -16,8 +16,6 @@
 
 ## ⚔️ Tokyo Manji Code Gang Stats | 東京卍會コード統計
 
-<div align="center">
-
 ```javascript
 const invincibleMikey = {
     gang: "Tokyo Manji Code Gang | 東京卍會",
@@ -50,8 +48,6 @@ const invincibleMikey = {
 };
 ```
 
-</div>
-
 ---
 
 ## 🏍️ Tokyo Manji Gang Hierarchy | 東京卍會階級制度
@@ -80,51 +76,39 @@ Debug Warriors    UI/UX Designers   API Architects    Penetration Team
 ## 🛠️ Gang Arsenal | 暴走族武器庫
 
 ### ⚔️ Primary Combat Languages | 主要戦闘言語
-<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0366D6?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0366D6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0366D6?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-0366D6?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0366D6?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-0366D6?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-0366D6?style=for-the-badge&logo=go&logoColor=white)
-
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🏗️ Framework & Library Arsenal | フレームワーク武器庫
-<div align="center">
 
-![React](https://img.shields.io/badge/React-0366D6?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-0366D6?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-0366D6?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0366D6?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-0366D6?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0366D6?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-0366D6?style=for-the-badge&logo=django&logoColor=white)
-
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### ☁️ Cloud & Infrastructure Battle Gear | クラウド戦闘装備
-<div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-0366D6?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0366D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0366D6?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0366D6?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-0366D6?style=for-the-badge&logo=terraform&logoColor=white)
-
-</div>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### 🗄️ Database Command Center | データベース司令部
-<div align="center">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0366D6?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0366D6?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-0366D6?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0366D6?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -144,8 +128,6 @@ Debug Warriors    UI/UX Designers   API Architects    Penetration Team
 
 ## 🏆 Gang Achievements | 暴走族実績
 
-<div align="center">
-
 ```diff
 + 👑 INVINCIBLE CAPTAIN STATUS | 無敵の総長地位
 + 🏍️ Tokyo Manji Code Gang Founder | 東京卍會創設者
@@ -159,13 +141,9 @@ Debug Warriors    UI/UX Designers   API Architects    Penetration Team
 + 💀 All Rival Bug Gangs Defeated | 全ライバルバグ暴走族撃破
 ```
 
-</div>
-
 ---
 
 ## 🌟 Join the Tokyo Manji Code Gang | 東京卍會参加方法
-
-<div align="center">
 
 ### 🏍️ **"Follow the Invincible Captain's Code Path!"** 🏍️
 
@@ -217,8 +195,6 @@ recruitment.becomeGangMember();
 **⭐ Hit that FOLLOW button to join the strongest code gang in history! ⭐**
 
 *Together, we'll create a future where no developer fights bugs alone!*
-
-</div>
 
 ---
 
