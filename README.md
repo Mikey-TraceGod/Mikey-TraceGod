@@ -59,10 +59,10 @@ const invincibleMikey = {
 <div align="center">
 
 ```
-          🔱 INVINCIBLE MIKEY 🔱
-             無敵のマイキー総長
-                 CAPTAIN
-                    |
+   🔱 INVINCIBLE MIKEY 🔱
+     無敵のマイキー総長
+         CAPTAIN
+              |
         ┌───────────────────────────────────────────────────┐
         |                 |                 |                 |
    🥊 VICE-CAPTAIN    💻 TECH LEAD      ⚡ CHIEF ARCHITECT  🛡️ SECURITY HEAD
