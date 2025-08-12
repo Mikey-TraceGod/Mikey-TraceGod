@@ -16,6 +16,8 @@
 
 ## ⚔️ Tokyo Manji Code Gang Stats | 東京卍會コード統計
 
+<div style="font-size: 16px;">
+
 ```javascript
 const invincibleMikey = {
     gang: "Tokyo Manji Code Gang | 東京卍會",
@@ -47,6 +49,8 @@ const invincibleMikey = {
     promise: "I'll create a future where no developer suffers from bugs alone!"
 };
 ```
+
+</div>
 
 ---
 
@@ -147,6 +151,8 @@ Debug Warriors    UI/UX Designers   API Architects    Penetration Team
 
 ### 🏍️ **"Follow the Invincible Captain's Code Path!"** 🏍️
 
+<div style="font-size: 16px;">
+
 ```javascript
 // Tokyo Manji Gang Recruitment Protocol | 東京卍會入隊プロトコル
 class JoinTokyoManjiGang {
@@ -192,6 +198,8 @@ const recruitment = new JoinTokyoManjiGang();
 recruitment.becomeGangMember();
 ```
 
+</div>
+
 **⭐ Hit that FOLLOW button to join the strongest code gang in history! ⭐**
 
 *Together, we'll create a future where no developer fights bugs alone!*
@@ -199,6 +207,8 @@ recruitment.becomeGangMember();
 ---
 
 ## 💫 Gang Battle Chronicles | 暴走族戦闘記録
+
+<div style="font-size: 16px;">
 
 ```javascript
 // Tokyo Manji Code Gang - Eternal Battle Log 東京卍會永遠の戦闘記録
@@ -278,6 +288,8 @@ FOR THE CODE FAMILY! コード家族のために！🏍️⚔️
 // The eternal battle begins
 mickeyGang.protectAllDevelopers();
 ```
+
+</div>
 
 ---
 
